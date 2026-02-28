@@ -1,0 +1,2 @@
+# autonomous-sentiment-aware-trading-framework--asat-
+**TITLE:** Autonomous Sentiment-Aware Trading Framework (ASAT)  **DESCRIPTION:**  This framework leverages advanced AI to analyze and interpret market sentiment from various sources such as news articles, social media, and forum discussions. It autonomously adapts trading strategies based on detected sentiments, enhancing decision-making by integra
